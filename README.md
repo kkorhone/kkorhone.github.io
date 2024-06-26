@@ -1,4 +1,4 @@
-# Eka
+# geoenergia.fi
 
 ## Toka
 
